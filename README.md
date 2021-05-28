@@ -12,11 +12,17 @@ what we are trying to solve/improve
 
 ## Technologies Used
 Solidity
+
 Web3
+
 Python
+
 Streamlit
+
 Ganache
+
 Django
+
 ---others tbd---
 
 ## How to use
