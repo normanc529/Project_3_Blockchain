@@ -3,8 +3,8 @@ import "https://github.com/OpenZeppelin/openzeppelin-contracts/blob/release-v2.5
 
 contract OrderToken is ERC721Full {
     constructor() public ERC721Full("OrderToken", "ORDR") { }
-    // Input barcode here?
-    // what is constructor? what is reportURI?
+
+
     struct OrderInfo {
         string customerName;
         string productType;
