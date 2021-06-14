@@ -12,6 +12,8 @@ Orders are created as tokenized ERC721 standardized NFT tokens that can be track
 
 Example video on a run through of the front end Heroku deployed website on harvestblocks.com can be found in the resources folder!
 
+Please navigate to https://github.com/Sprutton/harvestblocks to view the repository for our front end code. This code was used to build the Django Harvestblocks site we used for our marketplace portion of the project.
+
 ## Technologies Used
 Solidity
 
