@@ -10,6 +10,8 @@ This project uses Smart Contracts created to track and verify orders for Supply 
 
 Orders are created as tokenized ERC721 standardized NFT tokens that can be tracked and passed onto the next in line in the supply chain which are manageable through barcodes generated along each step. These in turn give all parties access to tracking the update of information every time it is updated.
 
+Example video on a run through of the front end Heroku deployed website on harvestblocks.com can be found in the resources folder!
+
 ## Technologies Used
 Solidity
 
